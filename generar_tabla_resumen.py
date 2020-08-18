@@ -39,6 +39,7 @@ class CalculoHipotecas:
 
     def __init__(self):
         self.porcentaje_entrada = 20  # Dinero aportado por comprador previamente al prestamo hipotecario
+        self.csv_separator = ','
 
     @staticmethod
     def intereses_mensuales(capital_pendiente, tasa_interes):
@@ -215,7 +216,7 @@ class CalculoHipotecas:
                                  'Precio_piso', 'Cuota_mensual', 'Interes_total']]
 
         # Guarda tabla final en formato csv
-        df_resumen.to_csv('Resumen_pago_hipotecas.csv', sep=';', index=False)
+        df_resumen.to_csv('Resumen_pago_hipotecas.csv', sep=self.csv_separator, index=False)
 
         return
 

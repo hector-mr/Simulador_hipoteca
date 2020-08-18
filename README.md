@@ -34,5 +34,6 @@ Los intereses mensuales obtenidos representan el beneficio que gana el banco con
 ## 4. Informacion adicional
 
 
-¡MALDITA HIPOTECA! Guia practica para contratar la mejor hipoteca
-ACIERTA al comprar VIVIENDA: Guia practica con consejos, sugerencias
+¡MALDITA HIPOTECA! Guia practica para contratar la mejor hipoteca.
+
+ACIERTA al comprar VIVIENDA: Guia practica con consejos, sugerencias.
