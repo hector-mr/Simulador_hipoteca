@@ -31,7 +31,19 @@ Los intereses mensuales obtenidos representan el beneficio que gana el banco con
 
 
 
-## 4. Informacion adicional
+## 4. Archivos de interes
+
+Se pueden modificar parametros del notebook (sueldo neto, tipo de interes, plazo,...)
+mediante el siguiente enlace:
+
+https://mybinder.org/v2/gh/hector-mr/Simulador_hipoteca/454796d3bf11717e2da687db07dca77aab8d031a
+
+El cual genera un grafico interactivo y muestra en pantalla un archivo csv con la informacion
+mensual del pago de la hipoteca.
+
+
+
+## 5. Informacion adicional
 
 
 ¡MALDITA HIPOTECA! Guia practica para contratar la mejor hipoteca.
